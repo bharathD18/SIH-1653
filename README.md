@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:08.03.2025
+## Register Number:212224240025
+## Name:Bharath.D
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -15,12 +15,30 @@ Ministry of Defence
 
 ## Proposed Solution / Architecture Diagram
 
+![1](https://github.com/user-attachments/assets/6379f768-d09d-46e5-928f-9f194e85e03c)
+
 
 ## Use Cases
+
+![use case](https://github.com/user-attachments/assets/a7d413e7-b5e1-4e68-9541-4ca07141ec99)
 
 
 ## Technology Stack
 
+React.js 
+CSS 
+WebRTC
+Node.js (Express) 
+Python 
+ PostgreSQL / MongoDB + Firebase (for logs)
+Deployment: AWS / Docker + Kubernetes + OAuth 2.0 Security
+
 
 ## Dependencies
+
+Mapping service- 10 days
+
+Data collection- 10 days
+
+budget- rs.50,000
 
